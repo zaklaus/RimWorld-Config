@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RBB_Code.Settings">
+		<fishingEfficiency>100</fishingEfficiency>
+		<trapEfficiency>100</trapEfficiency>
+		<failureLevel>1.5</failureLevel>
+		<junkLevel>1.5</junkLevel>
+		<successLevel>1.5</successLevel>
+		<treasureLevel>2.5</treasureLevel>
+	</ModSettings>
+</SettingsBlock>
