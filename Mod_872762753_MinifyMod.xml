@@ -2,9 +2,11 @@
 <SettingsBlock>
 	<ModSettings Class="MinifyEverything.MinifySettings">
 		<disabledDefList>
+			<li>airPipe</li>
 			<li>AnimalSleepingSpot</li>
 			<li>Autodoor</li>
 			<li>BrickWall</li>
+			<li>BurnPit</li>
 			<li>ButcherSpot</li>
 			<li>CaravanPackingSpot</li>
 			<li>ChainFence</li>
@@ -37,6 +39,7 @@
 			<li>Terraform_SoilF-PackedDirt</li>
 			<li>PartySpot</li>
 			<li>Terraform_SoilRich-SoilTilled</li>
+			<li>sewagePipeStuff</li>
 			<li>PowerConduit</li>
 			<li>Terraform_Ice-WaterShallow</li>
 			<li>Terraform_SoilF-SoilRich</li>

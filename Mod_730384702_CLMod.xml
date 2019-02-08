@@ -4,6 +4,6 @@
 		<rainTimeDelay>2</rainTimeDelay>
 		<partsTimeDelayMultiplier>1</partsTimeDelayMultiplier>
 		<colonistPerBlockCount>0</colonistPerBlockCount>
-		<fireMultiplier>2.9953053</fireMultiplier>
+		<fireMultiplier>3</fireMultiplier>
 	</ModSettings>
 </SettingsBlock>

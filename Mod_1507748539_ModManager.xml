@@ -1,7 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="ModManager.ModManagerSettings">
-		<ModAttributes />
+		<ModAttributes>
+			<li>
+				<Identifier>__LocalCopy_Recipe icons_(8-2)</Identifier>
+				<SourceMod>1616643195</SourceMod>
+				<SourceHash>6bc043f091011b3b9e165370b3bbde1f</SourceHash>
+			</li>
+		</ModAttributes>
 		<ButtonAttributes>
 			<li>
 				<Name>FrameRateControl</Name>
@@ -252,16 +258,12 @@
 				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
 			</li>
 			<li>
-				<Name>Mod Manager</Name>
-				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
-			</li>
-			<li>
 				<Name>While You're Up [1.0]</Name>
 				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
 			</li>
 			<li>
 				<Name>Weapon Tech</Name>
-				<Color>RGBA(0.833, 0.111, 0.718, 1.000)</Color>
+				<Color>RGBA(0.943, 0.318, 0.781, 1.000)</Color>
 			</li>
 			<li>
 				<Name>HugsLib</Name>
@@ -277,12 +279,75 @@
 			</li>
 			<li>
 				<Name>Let's Trade! [1.0]</Name>
-				<Color>RGBA(0.211, 0.352, 0.917, 1.000)</Color>
+				<Color>RGBA(0.470, 0.571, 0.973, 1.000)</Color>
 			</li>
 			<li>
 				<Name>Common Sense</Name>
 				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
 			</li>
+			<li>
+				<Name>Death Rattle</Name>
+				<Color>RGBA(0.163, 0.903, 0.726, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[KV] Trading Spot - 1.0</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[XND] Survival Tools</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Dubs Rimkit</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Dubs Bad Hygiene</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Rimefeller</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Metabolism Feels Cared About Now</Name>
+				<Color>RGBA(0.163, 0.903, 0.726, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Improved Infestation</Name>
+				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[RF] Pawns are Capable! [1.0]</Name>
+				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Animals Logic</Name>
+				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Incident Person Stat</Name>
+				<Color>RGBA(0.960, 0.803, 0.176, 1.000)</Color>
+			</li>
+			<li>
+				<Name>[RF] Rational Romance [1.0]</Name>
+				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Recipe icons</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Dub's Paint Shop</Name>
+				<Color>RGBA(0.677, 0.379, 0.180, 1.000)</Color>
+			</li>
+			<li>
+				<Name>More Faction Interaction</Name>
+				<Color>RGBA(0.960, 0.803, 0.176, 1.000)</Color>
+			</li>
 		</ButtonAttributes>
+		<ShowPromotions>False</ShowPromotions>
+		<ShowPromotions_NotSubscribed>False</ShowPromotions_NotSubscribed>
+		<TrimVersionStrings>True</TrimVersionStrings>
 	</ModSettings>
 </SettingsBlock>
