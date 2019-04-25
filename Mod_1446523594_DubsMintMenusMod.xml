@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="DubsMintMenus.Settings">
-		<IcoScale>1</IcoScale>
-		<ShowCorpses>True</ShowCorpses>
-		<multi21>200</multi21>
-		<LastVersion>8348</LastVersion>
+		<LastVersion>7931</LastVersion>
 	</ModSettings>
 </SettingsBlock>
