@@ -349,6 +349,22 @@
 				<Name>More Linkables</Name>
 				<Color>RGBA(0.943, 0.318, 0.781, 1.000)</Color>
 			</li>
+			<li>
+				<Name>Taming Inspiration</Name>
+				<Color>RGBA(0.960, 0.803, 0.176, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Shoo!</Name>
+				<Color>RGBA(1.000, 0.260, 0.260, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Dubs Mint Minimap</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
+			<li>
+				<Name>Numbers</Name>
+				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
+			</li>
 		</ButtonAttributes>
 		<ShowPromotions>False</ShowPromotions>
 		<ShowPromotions_NotSubscribed>False</ShowPromotions_NotSubscribed>
