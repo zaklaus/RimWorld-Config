@@ -20,8 +20,7 @@ All multi-player config files are stored within the MultiplayerConfig folder, fo
 - Uncompress under the Mods Directory (Steam/steamapps/common/RimWorld/Mods)
 - Subscribe to the Rimworld Enhancement Suite - Multiplayer modpack
 - Download [this zip](https://github.com/zaklaus/RimWorld-Multiplayer-Config/archive/master.zip)
-- Uncompress the zip and extract ModConfig.xml under RimWorld's Config directory (found under settings > show save data location)
-- Copy the contents of MultiplayerConfig under the same rimworld config directory (found under settings > show save data location)
+- Uncompress the zip and extract the contents of MultiplayerConfig folder under RimWorld's Config directory (found under settings > show save data location)
 - Enjoy
 
 ## What does PersonalConfig consist of?
