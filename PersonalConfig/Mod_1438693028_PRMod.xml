@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="ProgressRenderer.PRModSettings">
+		<exportPath>D:\Rimworld</exportPath>
+		<createSubdirs>True</createSubdirs>
+		<fileNamePattern>Numbered</fileNamePattern>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RationalRomance_Code.Settings">
+		<asexualChance>0</asexualChance>
+		<bisexualChance>0</bisexualChance>
+		<gayChance>0</gayChance>
+		<straightChance>100.99</straightChance>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RWAutoSell.ASModSettings">
+		<Version>2034</Version>
+		<WhiteList>
+			<keys>
+				<li>RimWorld.Dialog_Trade</li>
+				<li>Glitterworld_Prime.DialogPrimeTrade</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+			</values>
+		</WhiteList>
+	</ModSettings>
+</SettingsBlock>

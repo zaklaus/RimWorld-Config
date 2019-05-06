@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PrefsData>
+  <volumeGame>0.7471033</volumeGame>
+  <volumeMusic>0.279597</volumeMusic>
+  <volumeAmbient>0.5277079</volumeAmbient>
+  <screenWidth>1278</screenWidth>
+  <screenHeight>1018</screenHeight>
+  <fullscreen>False</fullscreen>
+  <uiScale>1</uiScale>
+  <customCursorEnabled>True</customCursorEnabled>
+  <hatsOnlyOnMap>False</hatsOnlyOnMap>
+  <plantWindSway>True</plantWindSway>
+  <showRealtimeClock>True</showRealtimeClock>
+  <animalNameMode>TameAll</animalNameMode>
+  <extremeDifficultyUnlocked>True</extremeDifficultyUnlocked>
+  <adaptiveTrainingEnabled>False</adaptiveTrainingEnabled>
+  <preferredNames />
+  <resourceReadoutCategorized>True</resourceReadoutCategorized>
+  <runInBackground>True</runInBackground>
+  <edgeScreenScroll>False</edgeScreenScroll>
+  <temperatureMode>Celsius</temperatureMode>
+  <autosaveIntervalDays>1</autosaveIntervalDays>
+  <testMapSizes>False</testMapSizes>
+  <maxNumberOfPlayerSettlements>2</maxNumberOfPlayerSettlements>
+  <pauseOnLoad>True</pauseOnLoad>
+  <pauseOnUrgentLetter>True</pauseOnUrgentLetter>
+  <devMode>False</devMode>
+  <langFolderName>English</langFolderName>
+  <logVerbose>False</logVerbose>
+  <pauseOnError>False</pauseOnError>
+  <resetModsConfigOnCrash>True</resetModsConfigOnCrash>
+</PrefsData>

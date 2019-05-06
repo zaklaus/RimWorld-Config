@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="EnhancedDevelopment.EnhancedOptions.ModSettings_EnhancedOptions">
+		<Plant24HEnabled>True</Plant24HEnabled>
+		<PlantLights24HEnabled>True</PlantLights24HEnabled>
+		<Speed4WithoutDev>True</Speed4WithoutDev>
+	</ModSettings>
+</SettingsBlock>

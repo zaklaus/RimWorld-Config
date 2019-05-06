@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DubsBadHygiene.Settings">
+		<LastVersion>BadHygiene 2.5.733</LastVersion>
+		<BladderRace />
+		<BladderBody />
+		<BladderHediff />
+		<HygieneRace />
+		<HygieneBody />
+		<HygieneHediff />
+		<RimefellerLink>False</RimefellerLink>
+		<RimatomicsLink>False</RimatomicsLink>
+		<EnableBladder>True</EnableBladder>
+		<EnableHygiene>True</EnableHygiene>
+		<PrivacyChecks>True</PrivacyChecks>
+		<PrisonersGetBladder>True</PrisonersGetBladder>
+		<PrisonersGetHygiene>True</PrisonersGetHygiene>
+		<GuestsGetBladder>True</GuestsGetBladder>
+		<GuestsGetHygiene>True</GuestsGetHygiene>
+		<AnimalsGetBladder>False</AnimalsGetBladder>
+		<PetsGetBladder>False</PetsGetBladder>
+		<ThirstNeed>False</ThirstNeed>
+		<AllowNonHuman>True</AllowNonHuman>
+		<FertilizerVisible>True</FertilizerVisible>
+		<OverrideNd>False</OverrideNd>
+		<Stripping>True</Stripping>
+		<ModOptionDefValues>
+			<keys />
+			<values />
+		</ModOptionDefValues>
+	</ModSettings>
+</SettingsBlock>

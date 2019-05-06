@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Rimefeller.Settings">
+		<DisableColours>False</DisableColours>
+		<RegenRate>0</RegenRate>
+		<PipeVisibility>1</PipeVisibility>
+		<OilPumpCapacity>0</OilPumpCapacity>
+		<OilGridCapacity>0</OilGridCapacity>
+		<CrudeToFuelRatio>0</CrudeToFuelRatio>
+		<LastVersion>27655</LastVersion>
+	</ModSettings>
+</SettingsBlock>
