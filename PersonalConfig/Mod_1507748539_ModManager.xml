@@ -365,14 +365,6 @@
 				<Name>Numbers</Name>
 				<Color>RGBA(0.760, 0.651, 0.372, 1.000)</Color>
 			</li>
-			<li>
-				<Name>Accurate Mortars</Name>
-				<Color>RGBA(0.673, 0.175, 0.175, 1.000)</Color>
-			</li>
-			<li>
-				<Name>Achtung!</Name>
-				<Color>RGBA(0.667, 0.380, 0.380, 1.000)</Color>
-			</li>
 		</ButtonAttributes>
 		<ShowPromotions>False</ShowPromotions>
 		<ShowPromotions_NotSubscribed>False</ShowPromotions_NotSubscribed>

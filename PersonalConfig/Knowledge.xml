@@ -242,22 +242,6 @@
       <value>0</value>
     </li>
     <li>
-      <key>GuestBeds</key>
-      <value>0</value>
-    </li>
-    <li>
-      <key>RecruitGuest</key>
-      <value>0</value>
-    </li>
-    <li>
-      <key>GuestWork</key>
-      <value>0</value>
-    </li>
-    <li>
-      <key>Hospitality</key>
-      <value>1</value>
-    </li>
-    <li>
       <key>PrisonLabor_Indroduction</key>
       <value>0</value>
     </li>
@@ -351,6 +335,34 @@
     </li>
     <li>
       <key>WTH_Concept_RogueAI_Mood</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>GuestBeds</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>RecruitGuest</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>GuestWork</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>Hospitality</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>FD_Shields</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>FD_CoilTemperature</key>
+      <value>0</value>
+    </li>
+    <li>
+      <key>FD_ShieldsPortable</key>
       <value>0</value>
     </li>
   </knowledge>
