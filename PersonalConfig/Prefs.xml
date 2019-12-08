@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <PrefsData>
   <volumeGame>0.7471033</volumeGame>
-  <volumeMusic>0.279597</volumeMusic>
+  <volumeMusic>0</volumeMusic>
   <volumeAmbient>0.5277079</volumeAmbient>
-  <screenWidth>1278</screenWidth>
-  <screenHeight>1018</screenHeight>
+  <screenWidth>2560</screenWidth>
+  <screenHeight>1017</screenHeight>
   <fullscreen>False</fullscreen>
   <uiScale>1</uiScale>
   <customCursorEnabled>True</customCursorEnabled>

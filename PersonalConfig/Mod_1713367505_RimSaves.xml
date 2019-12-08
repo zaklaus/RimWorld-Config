@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="aRandomKiwi.ARS.Settings">
-		<curFolder>survival</curFolder>
+		<curFolder>hadinor</curFolder>
 		<folders>
 			<li>Default</li>
 			<li>forsaken</li>
 			<li>hadinor</li>
 			<li>survival</li>
 		</folders>
-		<keyBinding>5</keyBinding>
+		<keyBinding>2</keyBinding>
 	</ModSettings>
 </SettingsBlock>

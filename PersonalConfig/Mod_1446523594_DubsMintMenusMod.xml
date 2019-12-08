@@ -3,7 +3,7 @@
 	<ModSettings Class="DubsMintMenus.Settings">
 		<WheelDefs IsNull="True" />
 		<HideFinished>True</HideFinished>
-		<LastSavedBuild>346</LastSavedBuild>
+		<LastSavedBuild>463</LastSavedBuild>
 		<infocardW>350</infocardW>
 		<MaxHeight>650</MaxHeight>
 		<InfoWidth>358</InfoWidth>

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="DubsBadHygiene.Settings">
-		<LastVersion>BadHygiene 2.5.833</LastVersion>
+		<LastVersion>Dubs Bad Hygiene 2.7.1061</LastVersion>
 		<BladderRace />
 		<BladderBody />
 		<BladderHediff />
@@ -9,6 +9,11 @@
 		<HygieneBody />
 		<HygieneHediff />
 		<RimefellerLink>False</RimefellerLink>
+		<RainIrrigation>False</RainIrrigation>
+		<AllowDrinkPacking>False</AllowDrinkPacking>
+		<AllowModdedDrinks>False</AllowModdedDrinks>
+		<Hydroponics>False</Hydroponics>
+		<SurvivalMode>False</SurvivalMode>
 		<RimatomicsLink>False</RimatomicsLink>
 		<EnableBladder>True</EnableBladder>
 		<EnableHygiene>True</EnableHygiene>

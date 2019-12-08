@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="RWAutoSell.ASModSettings">
-		<Version>2034</Version>
+		<Version>2041</Version>
 		<WhiteList>
 			<keys>
 				<li>RimWorld.Dialog_Trade</li>

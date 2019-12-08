@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Theme Version="1.3.2">
+<Theme Version="1.5.2">
   <HudOptions>
     <RefreshRate>2</RefreshRate>
   </HudOptions>
@@ -10,15 +10,15 @@
     <OffsetY>0</OffsetY>
   </HudPosition>
   <HudDimensions>
-    <Width>280</Width>
-    <Height>420</Height>
+    <Width>290</Width>
+    <Height>395</Height>
   </HudDimensions>
   <InspectPane>
     <Modify>True</Modify>
     <AddLog>True</AddLog>
     <Height>255</Height>
     <MinTabs>7</MinTabs>
-    <TabWidth>80</TabWidth>
+    <TabWidth>82</TabWidth>
   </InspectPane>
   <Text>
     <Regular>
@@ -68,7 +68,7 @@
     <MinorPassion>FFE6B2FF</MinorPassion>
     <MajorPassion>FFCC66FF</MajorPassion>
   </SkillColors>
-  <Integration.Bubbles>
+  <Integration.Mod_Bubbles>
     <Options>
       <Activated>True</Activated>
       <DoNonPlayer>True</DoNonPlayer>
@@ -96,16 +96,16 @@
       <PaddingY>2</PaddingY>
     </Text>
     <Color>
-      <ForeColor>FFFFFFFF</ForeColor>
-      <BackColor>000000FF</BackColor>
+      <ForeColor>000000FF</ForeColor>
+      <BackColor>FFFFFFFF</BackColor>
       <SelectedForeColor>000000FF</SelectedForeColor>
       <SelectedBackColor>FFFFBFFF</SelectedBackColor>
     </Color>
-  </Integration.Bubbles>
-  <Integration.PawnRules>
+  </Integration.Mod_Bubbles>
+  <Integration.Mod_PawnRules>
     <Options>
       <ReplaceFoodSelector>True</ReplaceFoodSelector>
       <HideGizmo>True</HideGizmo>
     </Options>
-  </Integration.PawnRules>
+  </Integration.Mod_PawnRules>
 </Theme>

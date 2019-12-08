@@ -32,9 +32,6 @@
 												<li>Apparel_FlakPants</li>
 												<li>Apparel_FlakJacket</li>
 												<li>Apparel_PowerArmor</li>
-												<li>Apparel_WolfArmor</li>
-												<li>Apparel_BearArmor</li>
-												<li>Apparel_DogGambeson</li>
 												<li>Apparel_flyfire2002_MedicBag</li>
 												<li>Carbonsuit</li>
 												<li>Apparel_Laconian</li>
@@ -56,12 +53,6 @@
 												<li>Apparel_AdvancedHelmet</li>
 												<li>Apparel_PowerArmorHelmet</li>
 												<li>Apparel_PsychicFoilHelmet</li>
-												<li>Apparel_BoarArmor</li>
-												<li>Apparel_CatArmor</li>
-												<li>Apparel_CatOfPreyArmor</li>
-												<li>Apparel_WargArmor</li>
-												<li>Apparel_ThrumboArmor</li>
-												<li>Apparel_ThrumboGear</li>
 												<li>Apparel_LaconianH</li>
 												<li>Apparel_DropsuitH</li>
 												<li>Apparel_NervesuitH</li>
@@ -70,11 +61,6 @@
 												<li>Apparel_NemesisH</li>
 												<li>Apparel_HazardCarapaceH</li>
 												<li>Apparel_CloseCombatHelmet</li>
-												<li>Apparel_DogArmorVest</li>
-												<li>Apparel_Howdah</li>
-												<li>Apparel_DogScarf</li>
-												<li>Apparel_FoxBandana</li>
-												<li>Apparel_FoxBandanaRed</li>
 											</allowedDefs>
 											<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
 											<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
@@ -94,7 +80,7 @@
 												<li>Apparel_AdvancedHelmet</li>
 												<li>Carbonsuit</li>
 											</allowedDefs>
-											<allowedHitPointsPercents>0~1</allowedHitPointsPercents>
+											<allowedHitPointsPercents>0.5080645~1</allowedHitPointsPercents>
 											<allowedQualityLevels>Awful~Legendary</allowedQualityLevels>
 										</exposable>
 									</li>
@@ -170,10 +156,6 @@
 												<li>Apparel_NervesuitH</li>
 												<li>Apparel_DropsuitH</li>
 												<li>Apparel_LaconianH</li>
-												<li>Apparel_ThrumboGear</li>
-												<li>Apparel_FoxBandanaRed</li>
-												<li>Apparel_FoxBandana</li>
-												<li>Apparel_DogScarf</li>
 												<li>Apparel_PsychicFoilHelmet</li>
 												<li>Apparel_PowerArmorHelmet</li>
 												<li>Apparel_AdvancedHelmet</li>
@@ -218,9 +200,6 @@
 												<li>Apparel_FlakPants</li>
 												<li>Apparel_FlakJacket</li>
 												<li>Apparel_PowerArmor</li>
-												<li>Apparel_WolfArmor</li>
-												<li>Apparel_BearArmor</li>
-												<li>Apparel_DogGambeson</li>
 												<li>Apparel_flyfire2002_MedicBag</li>
 												<li>Carbonsuit</li>
 												<li>Apparel_Laconian</li>
@@ -242,12 +221,6 @@
 												<li>Apparel_AdvancedHelmet</li>
 												<li>Apparel_PowerArmorHelmet</li>
 												<li>Apparel_PsychicFoilHelmet</li>
-												<li>Apparel_BoarArmor</li>
-												<li>Apparel_CatArmor</li>
-												<li>Apparel_CatOfPreyArmor</li>
-												<li>Apparel_WargArmor</li>
-												<li>Apparel_ThrumboArmor</li>
-												<li>Apparel_ThrumboGear</li>
 												<li>Apparel_LaconianH</li>
 												<li>Apparel_DropsuitH</li>
 												<li>Apparel_NervesuitH</li>
@@ -256,13 +229,8 @@
 												<li>Apparel_NemesisH</li>
 												<li>Apparel_HazardCarapaceH</li>
 												<li>Apparel_CloseCombatHelmet</li>
-												<li>Apparel_DogArmorVest</li>
-												<li>Apparel_Howdah</li>
-												<li>Apparel_DogScarf</li>
-												<li>Apparel_FoxBandana</li>
-												<li>Apparel_FoxBandanaRed</li>
 											</allowedDefs>
-											<allowedHitPointsPercents>0.5~1</allowedHitPointsPercents>
+											<allowedHitPointsPercents>0.5080645~1</allowedHitPointsPercents>
 											<allowedQualityLevels>Normal~Legendary</allowedQualityLevels>
 										</exposable>
 									</li>
@@ -311,8 +279,8 @@
 											<allowedForAddiction>True</allowedForAddiction>
 											<allowedForJoy>True</allowedForJoy>
 											<allowScheduled>True</allowScheduled>
-											<daysFrequency>2</daysFrequency>
-											<onlyIfMoodBelow>0.7525</onlyIfMoodBelow>
+											<daysFrequency>3</daysFrequency>
+											<onlyIfMoodBelow>0.2575</onlyIfMoodBelow>
 										</exposable>
 									</li>
 									<li>
